@@ -54,6 +54,12 @@
       </a>
       <br><strong>MySQL</strong>
     </td>
+    <td align="center" width="150">
+      <a href="https://laravel.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="60" height="60" alt="Laravel" />
+      </a>
+      <br><strong>Laravel</strong>
+    </td>
   </tr>
 </table>
 
