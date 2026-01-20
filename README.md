@@ -31,6 +31,12 @@
       <br><strong>React.js</strong>
     </td>
     <td align="center" width="150">
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript" />
+  </a>
+  <br><strong>TypeScript</strong>
+</td>
+    <td align="center" width="150">
       <a href="https://nodejs.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" alt="Node.js" />
       </a>
@@ -54,12 +60,12 @@
       </a>
       <br><strong>MySQL</strong>
     </td>
-    <td align="center" width="150">
-      <a href="https://laravel.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="60" height="60" alt="Laravel" />
-      </a>
-      <br><strong>Laravel</strong>
-    </td>
+   <td align="center" width="150">
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" />
+  </a>
+  <br><strong>Next.js</strong>
+</td>
   </tr>
 </table>
 
