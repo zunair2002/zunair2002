@@ -66,9 +66,9 @@
       </a>
       <br><strong>MongoDB</strong>
     </td>
-    <td align="center" width="150">
+   <td align="center" width="150">
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" alt="Tailwind CSS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind CSS" />
   </a>
   <br><strong>Tailwind CSS</strong>
 </td>
