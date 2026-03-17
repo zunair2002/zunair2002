@@ -43,6 +43,18 @@
       <br><strong>Node.js</strong>
     </td>
     <td align="center" width="150">
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="60" alt="Redux" />
+  </a>
+  <br><strong>Redux</strong>
+</td>
+    <td align="center" width="150">
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" />
+  </a>
+  <br><strong>Next.js</strong>
+</td>
+    <td align="center" width="150">
       <a href="https://expressjs.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" height="60" alt="Express.js" />
       </a>
@@ -60,12 +72,6 @@
       </a>
       <br><strong>MySQL</strong>
     </td>
-   <td align="center" width="150">
-  <a href="https://nextjs.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" />
-  </a>
-  <br><strong>Next.js</strong>
-</td>
   </tr>
 </table>
 
