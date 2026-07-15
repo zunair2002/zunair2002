@@ -2,10 +2,10 @@
 </div>
 
 <h1 align="center">Hi there, I'm Zunair </h1>
-<h3 align="center">A Full-Stack Developer</h3>
+<h3 align="center">A Full-Stack Engineer</h3>
 
 <p align="center">
-  I'm a passionate developer who loves building robust, scalable, and efficient web applications from the ground up. My journey spans the entire development lifecycle, from architecting a resilient backend to creating intuitive user interfaces. I thrive on bridging the gap between development and operations, embracing modern principles to automate, optimize, and streamline workflows.
+  I'm a passionate engineer who loves building robust, scalable, and efficient web applications from the ground up. My journey spans the entire development lifecycle, from architecting a resilient backend to creating intuitive user interfaces. I thrive on bridging the gap between development and operations, embracing modern principles to automate, optimize, and streamline workflows.
 </p>
 
 <p align="center">
@@ -53,6 +53,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" />
   </a>
   <br><strong>Next.js</strong>
+</td>
+    <td align="center" width="150">
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="60" height="60" alt="Redis" />
+  </a>
+  <br><strong>Redis</strong>
 </td>
     <td align="center" width="150">
       <a href="https://expressjs.com/" target="_blank">
